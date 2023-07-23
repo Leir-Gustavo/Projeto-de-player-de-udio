@@ -14,6 +14,10 @@ Botão Play/Pause: Inicia ou pausa a música. Caso o site tenha sido aberto pela
 
 Botão SkipFoward: avança para a música posterior a que está tocando no momento, caso o site tenha sido aberto pela primeira vez e o usuário não tenha selecionado nenhuma música do card, ao clicar nesse botão ele irá tocar a primeira música listada.
 
+
+## Rodando o projeto
+Para rodar o projeto, instalar o pacote do react e dar um npm start.
+
 ## Screenshots
 
 
