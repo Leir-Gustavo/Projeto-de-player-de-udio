@@ -1,0 +1,93 @@
+.button-reset {
+    border: none;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    gap: 30px;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+}
+
+.current-time {
+    width: 33px;
+    height: 20px;
+    margin-right: 8px;
+
+    color: #CCC3C3;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+.progress-bar {
+    display: flex;
+    background-color: #CCC3C3;
+    width: 778px;
+    height: 4px;
+    align-items: center;
+
+}
+
+.progressed {
+    width: 218px;
+    height: 4px;
+    background: #E5007B;
+}
+
+.ellipse {
+    margin-bottom: 4px;
+    margin-left: -1px;
+}
+
+.duration {
+    width: 33px;
+    height: 20px;
+
+    margin-left: 8px;
+
+    color: #CCC3C3;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.nome {
+    margin: 38px 0 80px 32px;
+    color: white;
+    position: absolute;
+    left: 0;
+}
+
+.now-playing-title {
+    width: 221px;
+    height: 28px;
+    margin-bottom: 10px;
+
+    color: #FFF;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.now-playing-artist {
+    width: 117px;
+    height: 20px;
+
+    color: #FFF;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+}
